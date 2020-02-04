@@ -21,6 +21,7 @@ file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/dio.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/native_imp.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/adapter.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/adapters/browser_adapter.dart
@@ -33,6 +34,7 @@ file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/entry/di
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/form_data.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/headers.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/interceptor.dart
+file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/interceptors/log.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/multipart_file.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/multipart_file_stub.dart
 file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/dio-3.0.8/lib/src/options.dart

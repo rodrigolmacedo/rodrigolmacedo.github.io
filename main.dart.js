@@ -23538,7 +23538,7 @@ M.wr.prototype={}
 Y.oP.prototype={
 gxI:function(){return H.c([new T.et(new Y.xt()),new T.et(new Y.xu())],[[T.et,,]])},
 grO:function(){var u=null,t=P.i
-return H.c([Z.It("/home",u,u,new Y.Cx(H.c([],[t]),P.w(t,u)),u,C.lM)],[Z.mu])}}
+return H.c([Z.It("/",u,u,new Y.Cx(H.c([],[t]),P.w(t,u)),u,C.lM)],[Z.mu])}}
 Y.xt.prototype={
 $1:function(a){return new M.hr(Q.SO("_AppBase.isDark"),Q.xc(null,"_AppBase"))},
 $S:71}
@@ -23641,7 +23641,7 @@ $C:"$2",
 $R:2}
 X.O1.prototype={
 $0:function(){var u=G.a1p(),t=this.a.d.gf4()
-u.PE("/home/post/"+H.a(J.V(t.gm(t),this.b).a),P.x)},
+u.PE("/post/"+H.a(J.V(t.gm(t),this.b).a),P.x)},
 $C:"$0",
 $R:0,
 $S:0}
